@@ -261,7 +261,7 @@ export function ROICalculatorSection() {
           >
             <Card className="p-6 md:p-8 bg-[radial-gradient(35%_128px_at_50%_0%,theme(backgroundColor.white/15%),theme(backgroundColor.white/5%))] border-white/20 backdrop-blur-sm shadow-2xl h-full flex flex-col">
               <h3 className="text-xl md:text-2xl font-semibold text-white mb-6 md:mb-8">
-                Your Potential with Cliste AI
+                Your Potential with Credantium
               </h3>
 
               <div className="space-y-6 flex-1">
